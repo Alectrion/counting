@@ -9,16 +9,6 @@ import os
 from werkzeug.utils import secure_filename
 
 
-
-
-# from io import BytesIO
-# from commons import get_model
-
-# import PIL.Image as Image
-# import numpy as np
-# from torchvision import transforms
-# import matplotlib.pyplot as plt
-# import random
 from inference import get_prediction
 
 
